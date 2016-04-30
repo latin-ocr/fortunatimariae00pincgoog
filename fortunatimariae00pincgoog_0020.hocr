@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./fortunatimariae00pincgoog_0020.png"; bbox 0 0 4563 6248; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 2256 3483 2276 3519">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 2256 3483 2276 3519">
+     <span class='ocr_line' id='line_1_1' title="bbox 2256 3483 2276 3519; textangle 180"><span class='ocrx_word' id='word_1_1' title='bbox 2256 3483 2276 3519; x_wconf 40' lang='lat' dir='ltr'><em>vrbe&lt;</em></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 2241 3777 2304 3791">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 2241 3777 2304 3791">
+     <span class='ocr_line' id='line_1_2' title="bbox 2241 3777 2304 3791; baseline -0.032 -9"><span class='ocrx_word' id='word_1_2' title='bbox 2241 3778 2267 3791; x_wconf 44' lang='lat' dir='ltr'><em>,A</em></span> <span class='ocrx_word' id='word_1_3' title='bbox 2283 3777 2304 3788; x_wconf 66' lang='lat'><em>.*</em></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 2288 3487 2470 4267">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 2288 3487 2470 4267">
+     <span class='ocr_line' id='line_1_3' title="bbox 2347 3487 2378 3506; baseline 0 -9"><span class='ocrx_word' id='word_1_4' title='bbox 2347 3487 2378 3506; x_wconf 71' lang='lat'><em>,-</em></span> 
+     </span>
+     <span class='ocr_line' id='line_1_4' title="bbox 2288 4215 2470 4267; baseline -0.011 -4"><span class='ocrx_word' id='word_1_5' title='bbox 2288 4227 2414 4267; x_wconf 28' lang='lat' dir='ltr'><em>fga-2,</em></span> <span class='ocrx_word' id='word_1_6' title='bbox 2441 4236 2445 4240; x_wconf 88' lang='lat'>&#39;</span> <span class='ocrx_word' id='word_1_7' title='bbox 2468 4215 2470 4218; x_wconf 20' lang='lat' dir='ltr'>v</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_4' title="bbox 2288 4636 3467 5627">
+    <p class='ocr_par' dir='ltr' id='par_1_4' title="bbox 2288 4636 3467 5627">
+     <span class='ocr_line' id='line_1_5' title="bbox 2288 4636 3467 5627; textangle 180"><span class='ocrx_word' id='word_1_8' title='bbox 2288 4636 3467 5627; x_wconf 95' lang='lat' dir='ltr'><em> </em></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_5' title="bbox 0 6240 4399 6248">
+    <p class='ocr_par' dir='ltr' id='par_1_5' title="bbox 0 6240 4399 6248">
+     <span class='ocr_line' id='line_1_6' title="bbox 0 6240 4399 6248; textangle 180"><span class='ocrx_word' id='word_1_9' title='bbox 0 6240 4399 6248; x_wconf 95' lang='lat' dir='ltr'><em> </em></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_6' title="bbox 2302 6244 4399 6248">
+    <p class='ocr_par' dir='ltr' id='par_1_6' title="bbox 2302 6244 4399 6248">
+     <span class='ocr_line' id='line_1_7' title="bbox 2302 6244 4399 6248; textangle 180"><span class='ocrx_word' id='word_1_10' title='bbox 2302 6244 4399 6248; x_wconf 95' lang='lat' dir='ltr'><em> </em></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_7' title="bbox 4476 0 4563 6244">
+    <p class='ocr_par' dir='ltr' id='par_1_7' title="bbox 4476 0 4563 6244">
+     <span class='ocr_line' id='line_1_8' title="bbox 4476 0 4563 6244; textangle 180"><span class='ocrx_word' id='word_1_11' title='bbox 4476 0 4563 6244; x_wconf 95' lang='lat' dir='ltr'><em> </em></span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
